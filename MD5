@@ -1,0 +1,14 @@
+a333a30d07fdd3f022b5d641ce1960d6 *DESCRIPTION
+7914bd17022ab1b2f6c8c4e373a09f78 *NAMESPACE
+8bf537014ba3a64c575d14a51b48b323 *R/RcppExports.R
+0f3556326bd9f682c266397f1bc5861a *data/Hofmann.rda
+33d8e6023d0a4b9993385386ad5413e4 *data/simICCdata.rda
+018ca8be1abde3801aa5c90592db0a0d *inst/CITATION
+b64a52302139cb4b7dfcba645a2d5f1d *man/Hofmann.Rd
+c278cb908f90b02181f896bcb3781f30 *man/icc_beta.Rd
+c35979c513ac7817283a046fa2b492ca *man/iccbeta-package.Rd
+06eaeb727ac99b6371af334f3959113b *man/simICCdata.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+8d46d69896a1f1d31ed76035a0e49d67 *src/Makevars.win
+ae2e065a1255a3596460b1a05949d3b9 *src/RcppExports.cpp
+77bb30bdb622f070c6a3be65d8907f97 *src/icc_beta.cpp
